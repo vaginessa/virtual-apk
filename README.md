@@ -9,6 +9,16 @@ https://github.com/twoyi/twoyi
 
 https://twoyi.app
 </details>
+
+**04/2024Twoyi updated Forks**
+
+<details markdown='1'><summary>Links</summary>
+  
+https://github.com/althafvly/twoyi - updated fork
+
+https://github.com/topminipie/twoyi - fork of althafvly's fork
+</details>
+
 ______
 
 **VirtualXposed**- Use Xposed with a simple APP, without needing to root, unlock the bootloader, or flash a system image
