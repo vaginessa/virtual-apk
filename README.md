@@ -30,6 +30,13 @@ https://vxposed.com
 
 https://github.com/android-hacker/VirtualXposed
 </details>
+
+**Fork with Androud 12 support**
+
+<details markdown='1'><summary>Links</summary>
+
+https://github.com/moonsua/VirtualXposed_12
+</details>
 ______
 
 **TaiChi** - A framework to use Xposed module with or without Root/Unlock bootloader, supportting Android 5.0 ~ 11
