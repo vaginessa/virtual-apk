@@ -14,7 +14,9 @@ https://twoyi.app
 
 <details markdown='1'><summary>Links</summary>
   
-https://github.com/althafvly/twoyi - updated fork
+https://github.com/althafvly/twoyi - updated fork  
+
+04.11.2023: ```twoyi_0.5.4-11050001-debug.apk```
 
 https://github.com/topminipie/twoyi - fork of althafvly's fork
 </details>
