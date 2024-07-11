@@ -3,6 +3,7 @@
 
 **Twoyi** - A rootless Android system-level container running a nearly complete Android 8.1 system (supporting root, Xposed, etc.) as a normal app mostly isolated from the main system.
 supports Android 8.1 ~ 12 (no root required)
+**was archived 20.04.2023**
 <details markdown='1'><summary>Links</summary>
 
 https://github.com/twoyi/twoyi
