@@ -18,7 +18,8 @@ https://github.com/althafvly/twoyi - updated fork
 
 04.11.2023: ```twoyi_0.5.4-11050001-debug.apk```
 
-https://github.com/topminipie/twoyi - fork of althafvly's fork
+https://github.com/topminipie/twoyi - fork of althafvly's fork  
+**original repo and user topminipie  disppeared - this my copy**: https://github.com/vaginessa/twoyi-topminipie-2024
 </details>
 
 ______
