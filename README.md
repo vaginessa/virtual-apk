@@ -4,16 +4,16 @@
 **Twoyi** - A rootless Android system-level container running a nearly complete Android 8.1 system (supporting root, Xposed, etc.) as a normal app mostly isolated from the main system.
 supports Android 8.1 ~ 12 (no root required)
 **was archived 20.04.2023**
-<details markdown='1'><summary>Links</summary>
+
+**Links**
 
 https://github.com/twoyi/twoyi
 
 https://twoyi.app
 </details>
 
-**04/2024Twoyi updated Forks**
+**04/2024 Twoyi updated Forks**
 
-<details markdown='1'><summary>Links</summary>
   
 https://github.com/althafvly/twoyi - updated fork  
 
@@ -21,6 +21,8 @@ https://github.com/althafvly/twoyi - updated fork
 
 https://github.com/topminipie/twoyi - fork of althafvly's fork  
 **original repo and user topminipie  disppeared - this my copy**: https://github.com/vaginessa/twoyi-topminipie-2024
+
+https://github.com/goisneto/twoyi
 </details>
 
 ______
