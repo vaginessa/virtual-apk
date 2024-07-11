@@ -39,7 +39,7 @@ https://github.com/android-hacker/VirtualXposed
 
 <details markdown='1'><summary>Links</summary>
 
-https://github.com/moonsua/VirtualXposed_12
+https://github.com/realsua/VirtualXposed_12
 </details>
 ______
 
