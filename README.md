@@ -9,6 +9,13 @@
 Virtual Machine App for Android Which is Based on QEMU 
 https://github.com/xoureldeen/Vectras-VM-Android
 
+**VirtualApp** - https://github.com/ServenScorpion/VirtualApp
+
+android 12 app split unterstützen, gerät simulieren, wifi simulieren, virtuelles multi-open, nail punch, enterprise micro punch, plugin entwicklung, XP plugin, benutzerbedienung simulieren, java hook, c++ hook
+
+https://github.com/ServenScorpion/VirtualApp/blob/master/release/app-2.3.2.apk
+
+
 
 **Twoyi** - A rootless Android system-level container running a nearly complete Android 8.1 system (supporting root, Xposed, etc.) as a normal app mostly isolated from the main system.
 supports Android 8.1 ~ 12 (no root required)
