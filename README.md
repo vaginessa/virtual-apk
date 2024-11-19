@@ -9,6 +9,17 @@
 Virtual Machine App for Android Which is Based on QEMU 
 https://github.com/xoureldeen/Vectras-VM-Android
 
+
+**http://vectras.netlify.app/**
+
+It's a Virtual Machine App for Android Which is Based on QEMU
+
+Has The Capbility to Run (ReactOS - Xp - 7 - Kali Linux)
+
+https://github.com/ankit1057/Vectras-VM-Android/tree/1.2b
+
+
+
 **VirtualApp** - https://github.com/ServenScorpion/VirtualApp
 
 android 12 app split unterstützen, gerät simulieren, wifi simulieren, virtuelles multi-open, nail punch, enterprise micro punch, plugin entwicklung, XP plugin, benutzerbedienung simulieren, java hook, c++ hook
