@@ -34,6 +34,8 @@ Virtual xposed frida is an aplication that implement frida for instrumentation, 
 https://github.com/publicresources/VirtualXposedFrida
 
 
+https://github.com/WaxMoon/MultiApp/releases/download/v1.0.2/playbox.apk
+
 
 **Twoyi** - A rootless Android system-level container running a nearly complete Android 8.1 system (supporting root, Xposed, etc.) as a normal app mostly isolated from the main system.
 supports Android 8.1 ~ 12 (no root required)
