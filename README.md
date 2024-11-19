@@ -27,6 +27,13 @@ android 12 app split unterstützen, gerät simulieren, wifi simulieren, virtuell
 https://github.com/ServenScorpion/VirtualApp/blob/master/release/app-2.3.2.apk
 
 
+**VirtualXposedFrida**
+
+Virtual xposed frida is an aplication that implement frida for instrumentation, this virtual auto run the gadget on the startup of any aplication inside of the virtual, making it be possible to run tests on non rooted device without repacking the apk, making it very simple to use 
+
+https://github.com/publicresources/VirtualXposedFrida
+
+
 
 **Twoyi** - A rootless Android system-level container running a nearly complete Android 8.1 system (supporting root, Xposed, etc.) as a normal app mostly isolated from the main system.
 supports Android 8.1 ~ 12 (no root required)
