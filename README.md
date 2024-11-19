@@ -1,6 +1,15 @@
 
 ## container/virtualization/sandbox apps on android
 
+-----  
+### UPDATE19.11.2024:
+
+**https://vectras.vercel.app/**
+
+Virtual Machine App for Android Which is Based on QEMU 
+https://github.com/xoureldeen/Vectras-VM-Android
+
+
 **Twoyi** - A rootless Android system-level container running a nearly complete Android 8.1 system (supporting root, Xposed, etc.) as a normal app mostly isolated from the main system.
 supports Android 8.1 ~ 12 (no root required)
 **was archived 20.04.2023**
