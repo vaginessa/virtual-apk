@@ -51,6 +51,13 @@ BlackBox is a virtual engine, it can clone and run virtual application on Androi
 https://github.com/FBlackBox/BlackBox/releases
 
 
+**BlackDex**
+
+BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in several seconds. 
+
+https://github.com/CodingGay/BlackDex
+
+
 
 **Twoyi** - A rootless Android system-level container running a nearly complete Android 8.1 system (supporting root, Xposed, etc.) as a normal app mostly isolated from the main system.
 supports Android 8.1 ~ 12 (no root required)
