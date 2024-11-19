@@ -37,6 +37,14 @@ https://github.com/publicresources/VirtualXposedFrida
 https://github.com/WaxMoon/MultiApp/releases/download/v1.0.2/playbox.apk
 
 
+**VirtualApp**
+
+Virtual App（Multiple Accounts or parallel space）Professional(support Android 4.0 - Android 13) 
+
+https://github.com/justin0kg/VirtualApp202306
+
+
+
 **Twoyi** - A rootless Android system-level container running a nearly complete Android 8.1 system (supporting root, Xposed, etc.) as a normal app mostly isolated from the main system.
 supports Android 8.1 ~ 12 (no root required)
 **was archived 20.04.2023**
