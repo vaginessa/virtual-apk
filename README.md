@@ -44,6 +44,13 @@ Virtual App（Multiple Accounts or parallel space）Professional(support Android
 https://github.com/justin0kg/VirtualApp202306
 
 
+**FblackBox**
+
+BlackBox is a virtual engine, it can clone and run virtual application on Android, users don't have to install APK file to run the application on devices. BlackBox control all virtual applications, so you can do anything you want by using BlackBox. 
+
+https://github.com/FBlackBox/BlackBox/releases
+
+
 
 **Twoyi** - A rootless Android system-level container running a nearly complete Android 8.1 system (supporting root, Xposed, etc.) as a normal app mostly isolated from the main system.
 supports Android 8.1 ~ 12 (no root required)
