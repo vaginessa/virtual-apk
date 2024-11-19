@@ -2,7 +2,7 @@
 ## container/virtualization/sandbox apps on android
 
 -----  
-### UPDATE19.11.2024:
+### UPDATE 19.11.2024:
 
 **https://vectras.vercel.app/**
 
@@ -57,6 +57,7 @@ BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need
 
 https://github.com/CodingGay/BlackDex
 
+-----  
 
 
 **Twoyi** - A rootless Android system-level container running a nearly complete Android 8.1 system (supporting root, Xposed, etc.) as a normal app mostly isolated from the main system.
